@@ -2,7 +2,8 @@
 
 - 👀 Aspiring Entrepreneur
 - 🌱 I’m currently studying Software Engineering M.Tech(Int)
-- 💞️ I’m looking to collaborate on Startups and Web Dev  
+- 💞️ I’m looking to collaborate on Startups and Web Dev 
+- 🌐 Visit www.sammelvin.com 
 - 📫 Reach me on @sammelvin2232002@gmail.com
 
 <!---
