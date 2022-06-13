@@ -3,7 +3,7 @@
 - 👀 Aspiring Entrepreneur
 - 🌱 I’m currently studying Software Engineering M.Tech(Int)
 - 💞️ I’m looking to collaborate on Startups and Web Dev 
-- 🙋 Member at [@DSC](https://developers.google.com/) and checkout [@g.dev/imsammelvin](https://g.dev/imsammelvin)
+- 🙋 Web Developer at [@DSC](https://developers.google.com/) and checkout [@g.dev/imsammelvin](https://g.dev/imsammelvin)
 - 🌐 Visit www.sammelvin.com 
 - 📫 Reach me on @sammelvin2232002@gmail.com
 
