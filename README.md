@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on Startups and Web Dev 
 - 🙋 Web Developer at [@DSC](https://developers.google.com/) and checkout [@g.dev/imsammelvin](https://g.dev/imsammelvin)
 - 🌐 Visit www.sammelvin.com 
-- 📫 Reach me on @sammelvin2232002@gmail.com
+- 📫 Reach me on @mailtosammelvin@gmail.com
 
 <!---
 imsammelvin/imsammelvin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
