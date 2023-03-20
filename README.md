@@ -1,10 +1,10 @@
 ## 👋 Hi, I’m Sam Melvin
 
-- 👀 Aspiring Entrepreneur
+- 👀 MERN Stack Developer
 - 🌱 I’m currently studying Software Engineering M.Tech(Int)
 - 💞️ I’m looking to collaborate on Startups and Web Dev 
 - 🙋 Web Developer at [@DSC](https://developers.google.com/) and checkout [@g.dev/imsammelvin](https://g.dev/imsammelvin)
-- 🌐 Visit www.sammelvin.com 
+- 🌐 Visit www.sammelvin.in 
 - 📫 Reach me on @mailtosammelvin@gmail.com
 
 <!---
