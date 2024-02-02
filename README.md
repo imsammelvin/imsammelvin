@@ -1,5 +1,5 @@
 # 💫 About Me:
-👀 MERN Stack Developer<br>🌱 I’m currently studying Software Engineering M.Tech(Int)<br>💞️ I’m looking to collaborate on Startups and Web Dev Projects<br>🙋 Web Developer at @DSC and checkout @g.dev/imsammelvin<br>🌐 Visit www.sammelvin.in<br>📫 Reach me on @mailtosammelvin@gmail.com
+👀 Full Stack Developer<br>🌱 I’m looking to collaborate on Startups and Web Dev Projects<br>🌐 Visit www.sammelvin.in<br>📫 Reach me on @mailtosammelvin@gmail.com
 
 
 ## 🌐 Socials:
