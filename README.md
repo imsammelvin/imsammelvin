@@ -1,5 +1,5 @@
 # 💫 About Me:
-👀 Full Stack Developer<br>🌱 I’m looking to collaborate on Startups and Web Dev Projects<br>🌐 Visit www.sammelvin.in<br>📫 Reach me on @mailtosammelvin@gmail.com
+👀 Full Stack Developer<br>🌱 I’m looking to collaborate on Startups and Web Dev Projects<br>📫 Reach me on @mailtosammelvin@gmail.com
 
 
 ## 🌐 Socials:
